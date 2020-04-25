@@ -25,6 +25,9 @@ Run the following command in the app's directory to run your web app. python run
 
 Go to http://0.0.0.0:3001/
 
+And by using udacity workspace we can use link such as https://view6914b2f4-3001.udacity-student-workspaces.com/ 
+where  SPACEID: view6914b2f4 can be found in another terminal by using env|grep WORK
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
