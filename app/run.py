@@ -34,7 +34,7 @@ df = pd.read_sql_table('messages', engine)
 model = joblib.load("../models/classifier.pkl")
 
 
-# index webpage displays cool visuals and receives user input text for model
+# index webpage displaays cool visuals and receives user input text for model
 @app.route('/')
 @app.route('/master.html')
 def index():
